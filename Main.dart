@@ -4,13 +4,6 @@ void main() {
   runApp(const CyberUdayOperationsApp());
 }
 
-// ============================================================
-// CYBER UDAY - OPERATIONS PORTAL
-// Single-file Flutter prototype.
-// No external packages are required.
-// Designed to match the existing Cyber Uday citizen website:
-// light background, white cards, teal brand color, red emergency.
-// ============================================================
 
 class CyberUdayOperationsApp extends StatelessWidget {
   const CyberUdayOperationsApp({super.key});
